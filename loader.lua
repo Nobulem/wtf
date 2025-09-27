@@ -9,7 +9,7 @@ local function notify(title, text, duration)
 end
 
 local Games = {
-    [17129858194] = "loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fce9f2b938d2826ea10a048fbbccde58.lua"))()" -- Realm rampage
+    [17129858194] = "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/fce9f2b938d2826ea10a048fbbccde58.lua\"))()" -- Realm rampage
 }
 
 local Script = Games[game.PlaceId]
@@ -19,7 +19,7 @@ if not Script then
     return
 end
 
-notify("nobulem.wtf", "Loading script...", 3)w
+notify("nobulem.wtf", "Loading script...", 3)
 task.wait(0.5)
 loadstring(Script)()
 notify("nobulem.wtf", "Loaded successfully!", 4)
