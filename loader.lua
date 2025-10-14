@@ -19,9 +19,17 @@ local Games = {
         ScriptId = "fce9f2b938d2826ea10a048fbbccde58",
         Name = "[BR] Realm Rampage"
     },
+    [86696142930150] = {
+        ScriptId = "2694d97ea485619561a52b5f3558e333",
+        Name = "Hypershot"
+    },
+    [108428559529058] = {
+        ScriptId = "2694d97ea485619561a52b5f3558e333",
+        Name = "[GAMEMODES] Hypershot"
+    },
     [114984003116267] = {
         ScriptId = "fce9f2b938d2826ea10a048fbbccde58",
-        Name = "[Queue] Realm Rampage"
+        Name = "[QUEUE] Realm Rampage"
     }
 }
 
