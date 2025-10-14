@@ -18,6 +18,10 @@ local Games = {
     [101874573809584] = {
         ScriptId = "fce9f2b938d2826ea10a048fbbccde58",
         Name = "[BR] Realm Rampage"
+    },
+    [114984003116267] = {
+        ScriptId = "fce9f2b938d2826ea10a048fbbccde58",
+        Name = "[Queue] Realm Rampage"
     }
 }
 
