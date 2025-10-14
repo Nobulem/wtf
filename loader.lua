@@ -15,6 +15,10 @@ local Games = {
         ScriptId = "dd089645975086ff98b2d7b9ec36470f",
         Name = "Midnight Chasers: Highway Racing"
     }
+        [101874573809584] = {
+        ScriptId = "fce9f2b938d2826ea10a048fbbccde58",
+        Name = "[BR] Realm Rampage"
+    }
 }
 
 local function notify(title, text, duration)
